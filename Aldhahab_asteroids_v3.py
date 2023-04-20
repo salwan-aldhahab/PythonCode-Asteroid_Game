@@ -1,3 +1,4 @@
+# Author: Salwan Aldhahab
 import turtle
 import time
 import random
